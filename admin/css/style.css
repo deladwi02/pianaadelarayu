@@ -1,0 +1,14 @@
+.navbar-default{
+background-color:#FF9900;
+color:white;
+}
+.navbar-default .navbar-nav > li > a{
+color:white;
+}
+.navbar-default .navbar-nav > li > a:hover{
+color:white;
+}
+.navbar-default .navbar-nav > .open > a, .navbar-default .navbar-nav > .open > a:hover, .navbar-default .navbar-nav > .open > a:focus{
+color:white;
+background-color:#6666FF;
+}
